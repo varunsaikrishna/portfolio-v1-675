@@ -1,1 +1,1 @@
-test: add unit tests for api endpoints\ntest: add unit tests for api endpoints\n
+test: add unit tests for api endpoints\ntest: add unit tests for api endpoints\nstyle: format code with prettier\n
