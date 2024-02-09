@@ -1,1 +1,1 @@
-test: add unit tests for api endpoints\ntest: add unit tests for api endpoints\nstyle: format code with prettier\nfix: resolve null pointer exception in parser\nfeat: initial commit\nfeat: implement user profile page\n
+test: add unit tests for api endpoints\ntest: add unit tests for api endpoints\nstyle: format code with prettier\nfix: resolve null pointer exception in parser\nfeat: initial commit\nfeat: implement user profile page\nfeat: initial commit\n
